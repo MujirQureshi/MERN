@@ -1,0 +1,21 @@
+.text {
+  font-size: 30px;
+  color: red;
+  background-color: yellow;
+}
+
+.container {
+  border: 5px solid black;
+  background-color: red;
+}
+
+.text1 {
+  font-size: 30px;
+  color: yellow;
+  background-color: red;
+}
+
+.container1 {
+  border: 5px solid black;
+  background-color: yellow;
+}
